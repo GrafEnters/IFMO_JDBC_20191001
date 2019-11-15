@@ -3,7 +3,6 @@ package com.efimchick.ifmo.web.jdbc.service;
 import com.efimchick.ifmo.web.jdbc.ConnectionSource;
 import com.efimchick.ifmo.web.jdbc.domain.*;
 
-import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.sql.ResultSet;
 import java.sql.SQLException;
